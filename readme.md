@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Objectif du projet
 
 Le but de ce est d'évaluer notre compréhension de Linux, du langage Markdown, de Git ainsi que de Github.
