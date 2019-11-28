@@ -36,7 +36,7 @@ On exécute la commande ci après: ./search_fichiers.sh permier pattern deuxieme
 
 ###### Premier test:
 
-[!Test1](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test1_projetlinux.png)
+[!Test1](https://github.com/Eyabk/MoSEF-Projet-2019/blob/master/Screenshots/Capture_test1_projetlinux.png)
 
 ###### Deuxième test:
 
