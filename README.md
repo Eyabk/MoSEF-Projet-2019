@@ -1,6 +1,6 @@
 ### Objectif du projet
 
-Le but de ce projet est d'évaluer notre compréhension de Linux, du langage Markdown, de Git ainsi que de Github.
+Le but de ce projet est d'évaluer notre compréhension de l'OS Linux, du langage Markdown, de Git ainsi que de Github.
 
 ### Livrables du projet
 
