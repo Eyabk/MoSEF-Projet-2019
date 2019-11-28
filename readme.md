@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ### Objectif du projet
 
-Le but de ce est d'évaluer notre compréhension de Linux, du langage Markdown, de Git ainsi que de Github.
+Le but de ce projet est d'évaluer notre compréhension de Linux, du langage Markdown, de Git ainsi que de Github.
 
 ### Livrables du projet
 
@@ -37,37 +36,37 @@ On exécute la commande ci après: ./search_fichiers.sh permier pattern deuxieme
 
 ###### Premier test:
 
-<img src=“Screenshots/Capture_test1_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test1_projetlinux.png" width="100">
 
 ###### Deuxième test:
 
-<img src=“screenshots/Capture_test2_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test2_projetlinux.png" width="100">
 
 - On teste si le fichier permet bien d'afficher tous les fichiers dont le nom respecte un pattern fourni:
 
 ###### Premier test
 
-<img src=“screenshots/Capture_test3_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test3_projetlinux.png" width="100">
 
 ###### Deuxième test
 
-<img src=“Screenshots/Capture_test4_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test4_projetlinux.png" width="100">
 
 ###### Troisième test
 
-<img src=“Screenshots/Capture_test5_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/matser/Screenshots/Capture_test5_projetlinux.png" width="100">
 
--On teste si le fichier permet d'afficher uniquement les fichiers qui contiennent un deuxième paramètre de manière insensible à la casse
+- On teste si le fichier permet d'afficher uniquement les fichiers qui contiennent un deuxième paramètre de manière insensible à la casse
 
 ###### Premier test
 
-<img src=“Screenshots/Capture_test6_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test6_projetlinux.png" width="100">
 
 ###### Deuxième test
 
-<img src=“Screenshots/Capture_test7_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test7_projetlinux.png" width="100">
 
 ###### Troisième test
 
-<img src=“screenshots/Capture_test8_projetlinux.png" height="400" alt="Screenshot"/>
+<img src=“https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test8_projetlinux.png" width="100">
 
