@@ -36,37 +36,37 @@ On exécute la commande ci après: ./search_fichiers.sh permier pattern deuxieme
 
 ###### Premier test:
 
-[!Test1](https://github.com/Eyabk/MoSEF-Projet-2019/blob/master/Screenshots/Capture_test1_projetlinux.png)
+![Test1](https://github.com/Eyabk/MoSEF-Projet-2019/blob/master/Screenshots/Capture_test1_projetlinux.png)
 
 ###### Deuxième test:
 
-[!Test2](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test2_projetlinux.png)
+![Test2](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test2_projetlinux.png)
 
 - On teste si le fichier permet bien d'afficher tous les fichiers dont le nom respecte un pattern fourni:
 
 ###### Premier test
 
-[!Test3](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test3_projetlinux.png)
+![Test3](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test3_projetlinux.png)
 
 ###### Deuxième test
 
-[!Test4](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test4_projetlinux.png)
+![Test4](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test4_projetlinux.png)
 
 ###### Troisième test
 
-[!Test5](https://github.com/Eyabk/MoSEF-Projet-2019/tree/matser/Screenshots/Capture_test5_projetlinux.png)
+![Test5](https://github.com/Eyabk/MoSEF-Projet-2019/tree/matser/Screenshots/Capture_test5_projetlinux.png)
 
 - On teste si le fichier permet d'afficher uniquement les fichiers qui contiennent un deuxième paramètre de manière insensible à la casse
 
 ###### Premier test
 
-[!Test6](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test6_projetlinux.png)
+![Test6](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test6_projetlinux.png)
 
 ###### Deuxième test
 
-[!Test7](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test7_projetlinux.png)
+![Test7](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test7_projetlinux.png)
 
 ###### Troisième test
 
-[!Test8](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test8_projetlinux.png)
+![Test8](https://github.com/Eyabk/MoSEF-Projet-2019/tree/master/Screenshots/Capture_test8_projetlinux.png)
 
